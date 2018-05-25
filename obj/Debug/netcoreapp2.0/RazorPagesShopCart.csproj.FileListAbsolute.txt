@@ -1,0 +1,11 @@
+/Users/rashidamcwilliams/RazorPagesShopCart/bin/Debug/netcoreapp2.0/RazorPagesShopCart.deps.json
+/Users/rashidamcwilliams/RazorPagesShopCart/bin/Debug/netcoreapp2.0/RazorPagesShopCart.runtimeconfig.json
+/Users/rashidamcwilliams/RazorPagesShopCart/bin/Debug/netcoreapp2.0/RazorPagesShopCart.runtimeconfig.dev.json
+/Users/rashidamcwilliams/RazorPagesShopCart/bin/Debug/netcoreapp2.0/RazorPagesShopCart.dll
+/Users/rashidamcwilliams/RazorPagesShopCart/bin/Debug/netcoreapp2.0/RazorPagesShopCart.pdb
+/Users/rashidamcwilliams/RazorPagesShopCart/obj/Debug/netcoreapp2.0/RazorPagesShopCart.csprojResolveAssemblyReference.cache
+/Users/rashidamcwilliams/RazorPagesShopCart/obj/Debug/netcoreapp2.0/RazorPagesShopCart.csproj.CoreCompileInputs.cache
+/Users/rashidamcwilliams/RazorPagesShopCart/obj/Debug/netcoreapp2.0/RazorPagesShopCart.AssemblyInfoInputs.cache
+/Users/rashidamcwilliams/RazorPagesShopCart/obj/Debug/netcoreapp2.0/RazorPagesShopCart.AssemblyInfo.cs
+/Users/rashidamcwilliams/RazorPagesShopCart/obj/Debug/netcoreapp2.0/RazorPagesShopCart.dll
+/Users/rashidamcwilliams/RazorPagesShopCart/obj/Debug/netcoreapp2.0/RazorPagesShopCart.pdb
